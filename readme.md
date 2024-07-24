@@ -1,5 +1,22 @@
 # React.js & Redux
 
+## Magesh Kuppan
+- tkmagesh77@gmail.com
+
+## Schedule
+- Commence      : 09:30 AM 
+- Tea Break     : 11:00 AM (15 mins)
+- Lunch Break   : 01:00 PM (1 hour)
+- Tea Break     : 3:30 PM (15 mins)
+- Wind up       : 5:30 PM
+
+## Methodology
+- No powerpoint
+- Discussion & Code
+
+## Repository
+- https://github.com/tkmagesh/sincro-react-jul-2024
+
 ## Software Requirements
 - Node.js
 - Chrome Browser
@@ -31,3 +48,13 @@
 
 ## Hooks 
 - functions with name 'use'
+
+## State
+### Application State
+- Data that supports the 'domain' logic of our application
+- It is highly LIKELY that a change in this data need to recognized and acted up on by other parts of the application as well
+- DO NOT maintain this in the component (using useState())
+### UI State
+- Data that supports the 'presentation' needs of the 'component'
+- It is highly UNLIKELY that a change in this data need to be recognized by other parts of the application
+- Feel free to maintain this in the component itself
