@@ -1,0 +1,48 @@
+{
+  "bugs": [
+    {
+      "id": 1,
+      "name": "Bug - 1",
+      "isClosed": false,
+      "createdAt": "2024-05-08T10:36:34.459Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Bug Tracker"
+    },
+    {
+      "id": 2,
+      "name": "Time Tracker"
+    },
+    {
+      "id": 3,
+      "name": "Expense Manager"
+    },
+    {
+      "id": 4,
+      "name": "Budget Analyser"
+    },
+    {
+      "id": 5,
+      "name": "New Project - 1"
+    },
+    {
+      "id": 6,
+      "name": "New Project - 2"
+    },
+    {
+      "id": 7,
+      "name": "New Project - 3"
+    },
+    {
+      "id": 8,
+      "name": "New Project - 4"
+    },
+    {
+      "id": 9,
+      "name": "New Project - 5"
+    }
+  ]
+}
